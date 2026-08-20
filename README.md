@@ -32,7 +32,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 |-|-|-|-|
 |<img src="/Recursos/Imágenes/lider.jpeg" width="90"/>|**Kevin Canchari Condori**|Líder del equipo|Me gustan los procesos Industriales y la Ciencia de Datos|
 |<img src="" width="90"/>|**Nombre 2**|Responsable de investigación|Gestión ambiental, desarrollo comunitario|
-|<img src="/Recursos/Imágenes/integrante1.png" width="90"/>|**Mickele Carlos Torres Velazco**|Diseñador/a|Diseño de prototipos, programar|
+|<img src="/Recursos/Imágenes/mickele.jpeg" width="90"/>|**Mickele Carlos Torres Velazco**|Diseñador/a|Diseño de prototipos, programar|
 |<img src="/Recursos/Imágenes/foto_paul.png" width="90"/>|**Paul Nole Pazos**|Encargado/a de documentación|Me gustan los videojuegos y programar|
 |<img src="/Recursos/Imágenes/Fabio.jpeg" width="90"/>|**Fabio Calcina Flores**|Programador/a - Modelador/a|Me gusta programar en Python y resolver problemas|
 
