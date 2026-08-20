@@ -38,7 +38,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 |<img src="/Recursos/Imágenes/integrante2.png" width="90"/>|**Nombre 2**|Responsable de investigación|Gestión ambiental, desarrollo comunitario|
 |<img src="/Recursos/Imágenes/integrante1.png" width="90"/>|**Mickele Carlos Torres Velazco**|Diseñador/a|Diseño de prototipos, programar|
 |<img src="/Recursos/Imágenes/foto\\\_paul.png.jpeg" width="90"/>|**Paul Nole Pazos**|Encargado/a de documentación|Me gustan los videojuegos y programar|
-|<img src="/Recursos/Imágenes/integrante1.png" width="90"/>|**Fabio Calcina Flores**|Programador/a - Modelador/a|Me gusta programar en Python y resolver problemas|
+|<img src="/Recursos/Imágenes/71283975.png" width="90"/>|**Fabio Calcina Flores**|Programador/a - Modelador/a|Me gusta programar en Python y resolver problemas|
 
 \---
 
