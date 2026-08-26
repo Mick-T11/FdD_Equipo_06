@@ -15,19 +15,19 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 * **ODS 3: Salud y Bienestar**  
   *Descripción:* Garantizar una vida sana y promover el bienestar para todos en todas las edades.  
-  *Meta relacionada:* **Meta 3.8** – Lograr la cobertura sanitaria universal, incluida la protección contra riesgos financieros, y el acceso a servicios de salud esenciales de calidad y a medicamentos y vacunas seguros, eficaces, asequibles y de calidad para todos.
+   **Meta** – Lograr la cobertura sanitaria universal, incluida la protección contra riesgos financieros, y el acceso a servicios de salud esenciales de calidad y     a medicamentos y vacunas seguros, eficaces, asequibles y de calidad para todos.
 
 * **ODS 9: Industria, Innovación e Infraestructura**  
   *Descripción:* Construir infraestructuras resilientes, promover la industrialización sostenible y fomentar la innovación.  
-  *Meta relacionada:* **Meta 9.5** – Aumentar la investigación científica y mejorar la capacidad tecnológica de los sectores industriales, fomentando la innovación y el desarrollo de tecnologías accesibles.
+   **Meta** – Aumentar la investigación científica y mejorar la capacidad tecnológica de los sectores industriales, fomentando la innovación y el desarrollo de        tecnologías accesibles.
 
 * **ODS 10: Reducción de las Desigualdades**  
   *Descripción:* Reducir la desigualdad en y entre los países.  
-  *Meta relacionada:* **Meta 10.2** – Potenciar y promover la inclusión social, económica y política de todas las personas, independientemente de su edad, sexo, discapacidad, raza, etnia, origen, religión o situación económica u otra condición.
+  **Meta** – Potenciar y promover la inclusión social, económica y política de todas las personas, independientemente de su edad, sexo, discapacidad, raza, etnia,     origen, religión o situación económica u otra condición.
 
 * **ODS 12: Producción y Consumo Responsables**  
   *Descripción:* Garantizar modalidades de consumo y producción sostenibles.  
-  *Meta relacionada:* **Meta 12.5** – Reducir considerablemente la generación de desechos mediante actividades de prevención, reducción, reciclaje y reutilización.
+   **Meta** – Reducir considerablemente la generación de desechos mediante actividades de prevención, reducción, reciclaje y reutilización.
 ## 📸 Fotografía del Equipo
 
 <p align="center">
