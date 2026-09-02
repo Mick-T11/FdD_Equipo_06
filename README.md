@@ -31,7 +31,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ---
 
-## 2. Delimitación de la Problemática
+## La Problemática
 
 Esta es la problemática central que el proyecto busca combatir, abordada desde el marco conjunto de los cuatro ODS seleccionados (**ODS 3**, **ODS 9**, **ODS 10** y **ODS 12**):
 
