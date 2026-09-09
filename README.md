@@ -6,7 +6,7 @@
 
 \---
 
-## 🌍 Descripción del Equipo
+## 🌍 Descripción del Equipo -PRUEBA DE CAMBIO 
 
 Somos el **Equipo 06** del curso **Nombre del curso 2026-2**, conformado por estudiantes de la carrera de Ingeniería Informática / Industrial.  
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
