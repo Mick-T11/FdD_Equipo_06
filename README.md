@@ -50,7 +50,7 @@ La problemática no se enfoca de momento en una solución terminada, sino en com
 ## 📸 Fotografía del Equipo
 
 <p align="center">
-  <img src="Recursos/imagen%20grupal.jpeg" alt="Fotografía del equipo" width="100%" />
+  <img src="Recursos/imagen%20grupal.jpeg" alt="Fotografía del equipo" style="max-width: 100%; height: auto;" />
   <br />
   <em>Figura 1. Fotografía del equipo 06</em>
 </p>
