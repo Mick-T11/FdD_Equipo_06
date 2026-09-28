@@ -1,6 +1,4 @@
-from pathlib import Path
-
-md = """# MATRIZ DE DESK RESEARCH
+ MATRIZ DE DESK RESEARCH
 
 **Grupo 06**
 
