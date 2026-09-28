@@ -79,8 +79,4 @@ El número corresponde a la fila de la matriz.
 > **s. f.**: sin fecha de publicación indicada. Fuentes consultadas en 2026.
 """
 
-path = Path("/mnt/data/Taller_6_Desk_Research.md")
-path.write_text(md, encoding="utf-8")
 
-print(f"Archivo creado: {path}")
-print(f"Tamaño: {path.stat().st_size} bytes")
