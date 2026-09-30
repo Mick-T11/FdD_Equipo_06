@@ -1,0 +1,1 @@
+![Caja Negra](../../Recursos/Caja_negra.jpeg)

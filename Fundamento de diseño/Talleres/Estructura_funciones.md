@@ -1,0 +1,1 @@
+![Estructura de Funciones](../../Recursos/Estructura_funciones.png)
